@@ -1,5 +1,7 @@
 # Git-Discord Bot
 
+[This is the github account for Git-Discord](https://github.com/Git-Discord)
+
 Project Summary:
 The goal of this project is to develop a Discord bot that connects GitHub and Discord. The bot will facilitate the posting of GitHub issues and pull requests to Discord forums. It will display important details such as the title, link, description, and all comments associated with the issues and pull requests. Additionally, users will be able to send comments directly to the pull requests or issues using the Discord bot. This integration aims to enhance collaboration and communication between GitHub and Discord users.
 

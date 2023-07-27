@@ -10,3 +10,4 @@ The goal of this project is to develop a Discord bot that connects GitHub and Di
   <img src="https://github.com/Bentlybro/Git-Discord-Bot/assets/27962737/132999a1-e620-44b8-9da9-64be9172a439" width="30%" height="30%" alt="Image 2">
   <img src="https://github.com/Bentlybro/Git-Discord-Bot/assets/27962737/5e9f8faa-e3f9-4094-9ad4-2bb746c328f6" width="30%" height="30%" alt="Image 3">
 </div>
+

@@ -14,7 +14,7 @@ Git-Discord is your ultimate bridge between GitHub and Discord. Seamlessly conne
 
 - **Identity Integration:** Authenticate with GitHub through the bot to ensure your comments are posted with your identity.
 
-## Authentication: Supercharge Your Experience!
+## 🔐 Authentication: Supercharge Your Experience!
 
 One of the most exciting aspects of Git-Discord is the authentication feature. To get started, follow these simple steps:
 
@@ -34,8 +34,7 @@ With authentication, you can:
 
 This authentication process not only enhances your interaction with Git-Discord but also ensures that your contributions and actions on GitHub are attributed to you directly.
 
-
-## New Feature: "!review" Command
+## ✨ New Feature: "!review" Command
 
 We are excited to introduce a new feature to Git-Discord! You can now use the `!review` command in your Discord threads to streamline your GitHub code review process. Whether you're reviewing a specific pull request or referencing it by its number or GitHub URL, Git-Discord has got you covered.
 
@@ -45,7 +44,7 @@ Here are a few ways you can use the `!review` command:
 - `!review #1234`: Reference a specific pull request by its number.
 - `!review github_pr_url`: Provide the GitHub pull request URL to start a review.
 
-## Additional Commands:
+## 📋 Additional Commands:
 
 - **!help**: Show the help menu.
 - **!comment <message>**: Comment on an issue or pull request.

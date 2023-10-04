@@ -36,7 +36,10 @@ This authentication process not only enhances your interaction with Git-Discord 
 
 ## ✨ New Feature: "!review" Command
 
-We are excited to introduce a new feature to Git-Discord! You can now use the `!review` command in your Discord threads to streamline your GitHub code review process. Whether you're reviewing a specific pull request or referencing it by its number or GitHub URL, Git-Discord has got you covered.
+We are excited to introduce a new feature to Git-Discord! You can now use the `!review` command in your Discord threads to streamline your GitHub code review process. 
+- Please Note: The bot uses gpt3.5-turbo for the review responses to keep costs low.
+
+Whether you're reviewing a specific pull request or referencing it by its number or GitHub URL, Git-Discord has got you covered.
 
 Here are a few ways you can use the `!review` command:
 
